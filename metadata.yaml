@@ -1,0 +1,31 @@
+_repo: Authors-and-Writers-Associated-with-MorristownWith-a-Chapter-on-Historic-Morristown_37834
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37834-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Colles, Julia Keese
+    alias: Colles, Mrs. George W.
+    gutenberg_agent_id: '39088'
+    url: http://www.gutenberg.org/2009/agents/39088
+description: ''
+gutenberg_issued: '2011-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37834'
+  lccn: '18013414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- New Jersey -- Morristown -- History and criticism'
+- !lcsh 'Authors, American -- Homes and haunts -- New Jersey -- Morristown'
+- !lcc 'PS'
+- !lcsh 'Morristown (N.J.) -- Biography'
+- !lcsh 'Morristown (N.J.) -- Intellectual life'
+title: 'Authors and Writers Associated with Morristown
+
+  With a Chapter on Historic Morristown'
+url: http://www.gutenberg.org/ebooks/37834
