@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39088'
     url: http://www.gutenberg.org/2009/agents/39088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37834#Authors-and-Writers-Associated-with-MorristownWith-a-Chapter-on-Historic-Morristown
 gutenberg_issued: '2011-10-24'
 gutenberg_type: Text
 identifiers:
